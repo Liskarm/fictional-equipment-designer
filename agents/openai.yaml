@@ -1,0 +1,4 @@
+interface:
+  display_name: "虚构武器装备设计师"
+  short_description: "为小说、游戏与概念设计创建并审计自洽的虚构装备体系"
+  default_prompt: "Use $fictional-equipment-designer to turn my concept into a coherent fictional equipment dossier and visual brief."
